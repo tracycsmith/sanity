@@ -1,8 +1,9 @@
 # Get Organized — Master Capture (Bible Anchor)
 **Everything lands here first. Reviewed daily before any action.**  
-**Version:** 1.4 — 2025-08-11-06-36
+**Version:** 1.5 — 2025-08-11-07-01
 
 ## Version Log
+- 1.5 — added task: Get to bed on time (Home → This Week); README push flow confirmed
 - 1.4 — added task: Renew Quicken (Home → This Week)
 - 1.3 — added Version Log section; kept git optional, continue using this thread as Bible, provide downloadable backups
 - 1.2 — added: Refineo Logo, review Evernote checklist, update LWD README with site links, purchase LWD misspelling domains
@@ -66,6 +67,8 @@
 - Order new UPS/battery for home office
 
 ### This Week → Planned Work
+- Get to bed on time
+- Renew Quicken
 - Cord sort & label project
 - Closet reorg
 - Book health appointments:
@@ -78,7 +81,6 @@
   - Offload files to Alpha  
   - Get personal files off work computer  
   - iCloud & Google Drive sync/cleanup
-- Renew Quicken
 
 ---
 
