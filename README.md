@@ -1,8 +1,9 @@
 # Get Organized — Master Capture (Bible Anchor)
 **Everything lands here first. Reviewed daily before any action.**  
-**Version:** 1.5 — 2025-08-11-07-01
+**Version:** 1.6 — 2025-08-11-07-22
 
 ## Version Log
+- 1.6 — housekeeping: test push after script reload; no content changes
 - 1.5 — added task: Get to bed on time (Home → This Week); README push flow confirmed
 - 1.4 — added task: Renew Quicken (Home → This Week)
 - 1.3 — added Version Log section; kept git optional, continue using this thread as Bible, provide downloadable backups
