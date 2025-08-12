@@ -1,8 +1,9 @@
 # Get Organized — Master Capture (Bible Anchor)
 **Everything lands here first. Reviewed daily before any action.**  
-**Version:** 1.6 — 2025-08-11-07-22
+**Version:** 1.7 — 2025-08-12-01-53
 
 ## Version Log
+- 1.7 — added task: Business Plan (Business → This Week); updated script paths (Downloads → /Users/tracysmith/Personal/LocalDownloads/Tracy, Repo → /Users/tracysmith/Personal/Projects/repos/sanity)
 - 1.6 — housekeeping: test push after script reload; no content changes
 - 1.5 — added task: Get to bed on time (Home → This Week); README push flow confirmed
 - 1.4 — added task: Renew Quicken (Home → This Week)
@@ -55,6 +56,7 @@
   - Review Evernote checklist we created
   - Update README for LWD with links to LWD websites
   - Purchase domains for misspellings of LWD (including `leadingwhiledistrscted.com`)
+  - Business Plan
 
 ---
 
